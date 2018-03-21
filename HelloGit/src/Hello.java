@@ -6,6 +6,10 @@ public class Hello {
 		System.out.println("hello git1234");
 		System.out.println("hello git1");
 		System.out.println("add hotfix------------------");
+		// merge ÈÄ Ãß°¡...
+		System.out.println("merge after !!");
+		
+		
 	}
 
 }
